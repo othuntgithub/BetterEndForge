@@ -11,7 +11,7 @@
         {
             "type": "crafting",
             "title": "기구 구성하기",
-            "text": "먼저  $(bold)주입 받침대$()와 $(bold)아무$() 다른 8개의 받침대를 제작해야합니다.",
+            "text": "먼저 $(bold)주입 받침대$()와 $(bold)아무$() 다른 8개의 받침대를 제작해야합니다.",
             "recipe": "betterendforge:infusion_pedestal"
         },
         {

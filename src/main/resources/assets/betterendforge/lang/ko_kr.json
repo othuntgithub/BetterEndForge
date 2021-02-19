@@ -16,13 +16,13 @@
 	
 	"container.betterendforge.end_stone_smelter": "엔드 석재 제련소",
 
-	"block.betterendforge.lumecorn": "Lumecorn",
-	"block.betterendforge.lumecorn_seed": "Lumecorn Seed",
-	"item.betterendforge.lumecorn_rod": "Lumecorn Rod",  
- 	"block.betterendforge.blooming_cooksonia": "Blooming Cooksonia",  
-    "block.betterendforge.salteago": "Salteago",  
-	"block.betterendforge.vaiolush_fern": "Vaiolush Fern",
-	"block.betterendforge.fracturn": "Fracturn",
+	"block.betterendforge.lumecorn": "루메콘",
+	"block.betterendforge.lumecorn_seed": "루메콘 씨앗",
+	"item.betterendforge.lumecorn_rod": "루메콘 막대기",  
+ 	"block.betterendforge.blooming_cooksonia": "만발한 쿡소니아",  
+    "block.betterendforge.salteago": "솔티고",  
+	"block.betterendforge.vaiolush_fern": "바이올러시 고사리",
+	"block.betterendforge.fracturn": "프랙턴",
 	
 	"biome.betterendforge.crystal_mountains": "수정 산",
     "biome.betterendforge.foggy_mushroomland": "안개 낀 버섯 지대",
